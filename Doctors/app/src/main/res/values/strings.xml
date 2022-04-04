@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Doctors</string>
+    <string-array name="specialty">
+        <item>Accupressure</item>
+        <item>Anaesthesiologist</item>
+        <item>Allergy specialist</item>
+        <item>Cardiologist</item>
+        <item>Cosmetologist and Trichologist</item>
+        <item>Dental Surgeon</item>
+        <item>Dermatology and Venereology</item>
+        <item>Diabetologist</item>
+        <item>Dietician and Nutritionist</item>
+        <item>ENT Surgeon(Ear,Nose,Throat)</item>
+        <item>Gastro Phy/Hepatologist</item>
+        <item>Hematologist</item>
+        <item>Homeopathy Doctor</item>
+        <item>Maternity and Child Specialist</item>
+        <item>Medicine</item>
+        <item>Medical Sonography</item>
+        <item>Nephrologist(Kidney Specialist)</item>
+        <item>Neuro Medicine</item>
+        <item>Neuro Surgeon</item>
+        <item>Oncologist(Cancer)-Medical/Surgeon</item>
+        <item>Ophthalmologist(Eye Specialist)</item>
+        <item>Orthopaedic</item>
+        <item>Physiotherapist</item>
+        <item>Plastic and Cosmetic Surgeon</item>
+        <item>Psychiatric and Drug Addiction</item>
+        <item>Urologist</item>
+        <item>Vascular Surgeon</item>
+    </string-array>
+</resources>

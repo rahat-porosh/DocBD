@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.porosh.doctors">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permision.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".accupressure" />
+        <activity android:name=".fetch" />
+        <activity android:name=".anaesthesiologist" />
+        <activity android:name=".fetchana" />
+        <activity android:name=".allergy" />
+        <activity android:name=".fetchalle" />
+        <activity android:name=".cardio" />
+        <activity android:name=".fetchcardio" />
+        <activity android:name=".cosmetology" />
+        <activity android:name=".fetchcosme" />
+        <activity android:name=".dental" />
+        <activity android:name=".fetchdent" />
+        <activity android:name=".derma" />
+        <activity android:name=".fetchderma" />
+        <activity android:name=".dia" />
+        <activity android:name=".fetchdia" />
+        <activity android:name=".diet" />
+        <activity android:name=".fetchdiet" />
+        <activity android:name=".ent" />
+        <activity android:name=".fetchent" />
+        <activity android:name=".gastro" />
+        <activity android:name=".fetchgas" />
+        <activity android:name=".hematologist" />
+        <activity android:name=".fetchhema" />
+        <activity android:name=".homeopathy" />
+        <activity android:name=".fetchhome" />
+        <activity android:name=".maternity" />
+        <activity android:name=".fetchmat" />
+        <activity android:name=".med" />
+        <activity android:name=".fetchneusu" />
+        <activity android:name=".medisono" />
+        <activity android:name=".fecthsono" />
+        <activity android:name=".musculo" />
+        <activity android:name=".fetchmus" />
+        <activity android:name=".neuromed" />
+        <activity android:name=".fetchneume" />
+        <activity android:name=".neurosur" />
+        <activity android:name=".oncologist" />
+        <activity android:name=".fetchonc" />
+        <activity android:name=".ortho" />
+        <activity android:name=".fetchortho" />
+        <activity android:name=".phy" />
+        <activity android:name=".fetchphy" />
+        <activity android:name=".plas" />
+        <activity android:name=".fetchplas" />
+        <activity android:name=".psyc" />
+        <activity android:name=".fetchpsyc" />
+        <activity android:name=".uro" />
+        <activity android:name=".fetchuro" />
+        <activity android:name=".vas" />
+        <activity android:name=".fetchvas" />
+        <activity android:name=".oph" />
+        <activity android:name=".fetchoph" />
+        <activity android:name=".fetchmed"></activity>
+    </application>
+
+</manifest>
